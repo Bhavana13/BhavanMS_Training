@@ -1,0 +1,1902 @@
+!SESSION 2016-01-16 13:02:03.162 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2016-01-16 13:02:12.770
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2016-01-16 13:02:15.082
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2016-01-16 13:02:15.082
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-16 13:02:15.083
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-16 13:02:15.083
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-16 13:02:15.083
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2016-01-16 13:02:15.083
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2016-01-16 13:02:15.083
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2016-01-16 13:02:15.083
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2016-01-16 13:02:15.083
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 13:02:15.083
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 13:02:15.083
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 13:02:15.083
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 13:02:15.083
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 13:02:15.083
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 13:02:15.083
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 13:02:15.083
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 13:02:15.083
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 13:02:15.083
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2016-01-16 13:02:15.083
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2016-01-16 13:02:15.083
+!MESSAGE OK
+!SESSION 2016-01-16 16:35:39.243 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2016-01-16 16:35:46.474
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2016-01-16 16:35:49.521
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2016-01-16 16:35:49.521
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-16 16:35:49.521
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-16 16:35:49.521
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-16 16:35:49.522
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2016-01-16 16:35:49.522
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2016-01-16 16:35:49.522
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2016-01-16 16:35:49.522
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2016-01-16 16:35:49.522
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 16:35:49.522
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 16:35:49.522
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 16:35:49.522
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 16:35:49.522
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 16:35:49.522
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 16:35:49.522
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 16:35:49.522
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 16:35:49.522
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 16:35:49.522
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2016-01-16 16:35:49.522
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2016-01-16 16:35:49.522
+!MESSAGE OK
+!SESSION 2016-01-16 18:40:47.118 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2016-01-16 18:40:55.386
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2016-01-16 18:40:59.072
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2016-01-16 18:40:59.072
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2016-01-16 18:40:59.072
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2016-01-16 18:40:59.072
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2016-01-16 18:40:59.072
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2016-01-16 18:40:59.072
+!MESSAGE OK
+!SESSION 2016-01-17 16:26:07.552 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2016-01-17 16:26:23.514
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2016-01-17 16:26:29.199
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2016-01-17 16:26:29.199
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-17 16:26:29.199
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-17 16:26:29.199
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-17 16:26:29.199
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2016-01-17 16:26:29.200
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2016-01-17 16:26:29.200
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2016-01-17 16:26:29.200
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2016-01-17 16:26:29.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-17 16:26:29.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-17 16:26:29.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-17 16:26:29.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-17 16:26:29.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-17 16:26:29.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-17 16:26:29.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-17 16:26:29.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-17 16:26:29.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-17 16:26:29.200
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2016-01-17 16:26:29.200
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2016-01-17 16:26:29.200
+!MESSAGE OK
+!SESSION 2016-01-21 19:35:10.992 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2016-01-21 19:35:31.025
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2016-01-21 19:35:38.360
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2016-01-21 19:35:38.360
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-21 19:35:38.360
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-21 19:35:38.360
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-21 19:35:38.360
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2016-01-21 19:35:38.360
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2016-01-21 19:35:38.361
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2016-01-21 19:35:38.361
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2016-01-21 19:35:38.361
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-21 19:35:38.361
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-21 19:35:38.361
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-21 19:35:38.361
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-21 19:35:38.361
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-21 19:35:38.361
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-21 19:35:38.361
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-21 19:35:38.361
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-21 19:35:38.361
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-21 19:35:38.361
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2016-01-21 19:35:38.361
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2016-01-21 19:35:38.361
+!MESSAGE OK
+
+!ENTRY org.eclipse.epp.usagedata.recording 1 0 2016-01-21 19:36:11.217
+!MESSAGE Usage data upload to http://udc.eclipse.org/upload.php failed with error code 404.
+!SESSION 2016-01-23 19:38:05.409 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2016-01-23 19:39:14.451
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2016-01-23 19:39:36.236
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2016-01-23 19:39:36.236
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2016-01-23 19:39:36.236
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2016-01-23 19:39:36.236
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2016-01-23 19:39:36.236
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2016-01-23 19:39:36.236
+!MESSAGE OK
+!SESSION 2016-01-27 17:29:27.431 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2016-01-27 17:29:49.914
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2016-01-27 17:29:56.984
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2016-01-27 17:29:56.984
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-27 17:29:56.984
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-27 17:29:56.984
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-27 17:29:56.984
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2016-01-27 17:29:56.984
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2016-01-27 17:29:56.985
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2016-01-27 17:29:56.985
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2016-01-27 17:29:56.985
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-27 17:29:56.985
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-27 17:29:56.985
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-27 17:29:56.985
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-27 17:29:56.985
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-27 17:29:56.985
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-27 17:29:56.985
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-27 17:29:56.985
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-27 17:29:56.985
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-27 17:29:56.985
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2016-01-27 17:29:56.986
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2016-01-27 17:29:56.986
+!MESSAGE OK
+
+!ENTRY org.eclipse.epp.usagedata.recording 1 0 2016-01-27 17:31:13.194
+!MESSAGE Usage data upload to http://udc.eclipse.org/upload.php failed with error code 404.
+!SESSION 2016-01-28 15:40:42.995 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-01-28 15:40:46.372
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2016-01-30 23:48:00.085 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2016-01-30 23:48:14.278
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2016-01-30 23:48:22.779
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2016-01-30 23:48:22.779
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-30 23:48:22.779
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-30 23:48:22.779
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-01-30 23:48:22.779
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2016-01-30 23:48:22.779
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2016-01-30 23:48:22.779
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2016-01-30 23:48:22.779
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2016-01-30 23:48:22.779
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-30 23:48:22.779
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-30 23:48:22.779
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-30 23:48:22.779
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-30 23:48:22.779
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-30 23:48:22.779
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-30 23:48:22.779
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-30 23:48:22.779
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-30 23:48:22.780
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-01-30 23:48:22.780
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2016-01-30 23:48:22.780
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2016-01-30 23:48:22.780
+!MESSAGE OK
+!SESSION 2016-02-04 16:44:56.618 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.epp.usagedata.recording 1 0 2016-02-04 16:45:29.131
+!MESSAGE Usage data upload to http://udc.eclipse.org/upload.php failed with error code 404.
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 17:12:06.423
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketTimeoutException: Read timed out;children=[]]
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2016-02-04 17:12:06.613
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: Unable to read repository at http://download.eclipse.org/releases/indigo/201106220900/content.jar.
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.updateCache(CacheManager.java:359)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:205)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:66)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:88)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:749)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:651)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:165)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:749)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:651)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.ProvisioningUI.loadMetadataRepository(ProvisioningUI.java:402)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.getMetadataRepository(MetadataRepositoryElement.java:120)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.fetchChildren(MetadataRepositoryElement.java:70)
+	at org.eclipse.equinox.internal.p2.ui.model.RemoteQueriedElement.fetchDeferredChildren(RemoteQueriedElement.java:34)
+	at org.eclipse.ui.progress.DeferredTreeContentManager$1.run(DeferredTreeContentManager.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.read(AutoCloseInputStream.java:108)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.read(AutoCloseInputStream.java:127)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:172)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	... 1 more
+!SUBENTRY 1 org.eclipse.equinox.p2.transport.ecf 4 1002 2016-02-04 17:12:06.613
+!MESSAGE Unable to read repository at http://download.eclipse.org/releases/indigo/201106220900/content.jar.
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.read(AutoCloseInputStream.java:108)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.read(AutoCloseInputStream.java:127)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:172)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 17:26:09.194
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketTimeoutException: Read timed out;children=[]]
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 17:26:17.035
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketTimeoutException: Read timed out;children=[]]
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 17:26:26.665
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketException: Connection reset;children=[]]
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-02-04 17:34:48.316
+!MESSAGE An internal error occurred during: "Install download3".
+!STACK 0
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeHi(Unknown Source)
+	at java.util.ComparableTimSort.mergeAt(Unknown Source)
+	at java.util.ComparableTimSort.mergeCollapse(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorSelector.hasValidMirror(MirrorSelector.java:319)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:577)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-02-04 17:35:34.160
+!MESSAGE An internal error occurred during: "Install download2".
+!STACK 0
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeHi(Unknown Source)
+	at java.util.ComparableTimSort.mergeAt(Unknown Source)
+	at java.util.ComparableTimSort.mergeCollapse(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorSelector.hasValidMirror(MirrorSelector.java:319)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:577)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 17:36:01.765
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketTimeoutException: Read timed out;children=[]]
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2016-02-04 17:38:36.756
+!MESSAGE Connection to http://mirrors.opencas.cn/eclipse//releases/indigo/201202240900/aggregate/plugins/org.eclipse.wb.swing.FormLayout.lib_1.3.0.r37x201202021417.jar.pack.gz failed on mirrors.opencas.cn. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: mirrors.opencas.cn
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.eclipse.ecf.provider.filetransfer.events.socket.SocketEventCreateUtil.createSocket(SocketEventCreateUtil.java:43)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:81)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:73)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:65)
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1142)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:710)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:889)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:576)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:349)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.readInto(FileReader.java:295)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:80)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:130)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:625)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:569)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2016-02-04 17:39:43.781
+!MESSAGE Connection to http://eclipse.mirror.rafal.ca/releases/indigo/201202240900/aggregate/plugins/org.eclipse.wb.swing.FormLayout.lib_1.3.0.r37x201202021417.jar.pack.gz failed on eclipse.mirror.rafal.ca. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: eclipse.mirror.rafal.ca
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.eclipse.ecf.provider.filetransfer.events.socket.SocketEventCreateUtil.createSocket(SocketEventCreateUtil.java:43)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:81)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:73)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:65)
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1142)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:710)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:889)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:576)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:349)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.readInto(FileReader.java:295)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:80)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:130)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:625)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:569)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-02-04 17:40:40.403
+!MESSAGE An internal error occurred during: "Install download0".
+!STACK 0
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeHi(Unknown Source)
+	at java.util.ComparableTimSort.mergeAt(Unknown Source)
+	at java.util.ComparableTimSort.mergeCollapse(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorSelector.hasValidMirror(MirrorSelector.java:319)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:577)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2016-02-04 17:43:50.180
+!MESSAGE Connection to http://eclipse.mirror.rafal.ca/releases/indigo/201202240900/aggregate/plugins/org.eclipse.wb.swing.FormLayout.lib_1.3.0.r37x201202021417.jar.pack.gz failed on eclipse.mirror.rafal.ca. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: eclipse.mirror.rafal.ca
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.eclipse.ecf.provider.filetransfer.events.socket.SocketEventCreateUtil.createSocket(SocketEventCreateUtil.java:43)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:81)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:73)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:65)
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1142)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:710)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:889)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:576)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:349)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.readInto(FileReader.java:295)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:80)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:130)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:625)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:569)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 17:45:31.332
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.io.IOException: Stream closed;children=[]]
+!STACK 0
+java.io.IOException: Stream closed
+	at java.io.BufferedInputStream.getBufIfOpen(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.hardClose(AbstractRetrieveFileTransfer.java:331)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.hardClose(HttpClientRetrieveFileTransfer.java:396)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.cancel(HttpClientRetrieveFileTransfer.java:382)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.handleTransferEvent(FileReader.java:173)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.fireTransferReceiveDataEvent(AbstractRetrieveFileTransfer.java:388)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.fireTransferReceiveDataEvent(HttpClientRetrieveFileTransfer.java:1163)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.handleReceivedData(AbstractRetrieveFileTransfer.java:288)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:173)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-02-04 18:01:32.994
+!MESSAGE An internal error occurred during: "Install download1".
+!STACK 0
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeHi(Unknown Source)
+	at java.util.ComparableTimSort.mergeAt(Unknown Source)
+	at java.util.ComparableTimSort.mergeCollapse(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorSelector.hasValidMirror(MirrorSelector.java:319)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:577)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-02-04 18:01:59.293
+!MESSAGE An internal error occurred during: "Install download2".
+!STACK 0
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeHi(Unknown Source)
+	at java.util.ComparableTimSort.mergeAt(Unknown Source)
+	at java.util.ComparableTimSort.mergeCollapse(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorSelector.hasValidMirror(MirrorSelector.java:319)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:577)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-02-04 18:03:33.773
+!MESSAGE An internal error occurred during: "Install download3".
+!STACK 0
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeHi(Unknown Source)
+	at java.util.ComparableTimSort.mergeAt(Unknown Source)
+	at java.util.ComparableTimSort.mergeCollapse(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorSelector.hasValidMirror(MirrorSelector.java:319)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:577)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2016-02-04 18:16:56.248 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 18:26:07.632
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketException: Connection reset;children=[]]
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2016-02-04 18:38:47.521
+!MESSAGE Connection to http://mirrors.ustc.edu.cn/eclipse/releases/indigo/201202240900/aggregate/plugins/org.eclipse.wb.swing.FormLayout.lib_1.3.0.r37x201202021417.jar.pack.gz failed on mirrors.ustc.edu.cn. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: mirrors.ustc.edu.cn
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.eclipse.ecf.provider.filetransfer.events.socket.SocketEventCreateUtil.createSocket(SocketEventCreateUtil.java:43)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:81)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:73)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:65)
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1142)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:710)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:889)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:576)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:349)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.readInto(FileReader.java:295)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:80)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:130)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:625)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:569)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-02-04 18:40:50.884
+!MESSAGE An internal error occurred during: "Install download3".
+!STACK 0
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeHi(Unknown Source)
+	at java.util.ComparableTimSort.mergeAt(Unknown Source)
+	at java.util.ComparableTimSort.mergeCollapse(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorSelector.hasValidMirror(MirrorSelector.java:319)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:577)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2016-02-04 18:41:01.753
+!MESSAGE Connection to http://ftp.yzu.edu.tw/eclipse/releases/indigo/201202240900/aggregate/plugins/org.eclipse.wb.core.lib_1.3.0.r37x201202052311.jar.pack.gz failed on Connection reset. Retry attempt 0 started
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.HttpParser.readRawLine(HttpParser.java:78)
+	at org.apache.commons.httpclient.HttpParser.readLine(HttpParser.java:106)
+	at org.apache.commons.httpclient.HttpConnection.readLine(HttpConnection.java:1116)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.readLine(MultiThreadedHttpConnectionManager.java:1413)
+	at org.apache.commons.httpclient.HttpMethodBase.readStatusLine(HttpMethodBase.java:1973)
+	at org.apache.commons.httpclient.HttpMethodBase.readResponse(HttpMethodBase.java:1735)
+	at org.apache.commons.httpclient.HttpMethodBase.execute(HttpMethodBase.java:1098)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer$GzipGetMethod.execute(HttpClientRetrieveFileTransfer.java:117)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:398)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1142)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:710)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:889)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:576)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:349)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.readInto(FileReader.java:295)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:80)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:130)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:625)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:569)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 18:42:04.597
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketException: Connection reset;children=[]]
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2016-02-04 18:46:26.989 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 18:54:21.693
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketException: Connection reset;children=[]]
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 18:57:11.085
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketException: Connection reset;children=[]]
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 18:58:54.747
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketTimeoutException: Read timed out;children=[]]
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 18:59:23.747
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketException: Connection reset;children=[]]
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 19:00:05.934
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketTimeoutException: Read timed out;children=[]]
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-02-04 19:01:30.985
+!MESSAGE An internal error occurred during: "Install download3".
+!STACK 0
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeHi(Unknown Source)
+	at java.util.ComparableTimSort.mergeAt(Unknown Source)
+	at java.util.ComparableTimSort.mergeCollapse(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorSelector.hasValidMirror(MirrorSelector.java:319)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:577)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 19:03:26.574
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketTimeoutException: Read timed out;children=[]]
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2016-02-04 19:05:30.086
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2016-02-04 19:05:30.086
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:05:30.086
+!MESSAGE "Remote System Explorer End-User Runtime" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:05:30.086
+!MESSAGE "Eclipse Plug-in Development Environment" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:05:30.086
+!MESSAGE "Marketplace Client" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:05:30.086
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.086
+!MESSAGE Software being installed: RPM Specfile Editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.feature.feature.group 0.4.3.201202152032)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.086
+!MESSAGE Software being installed: RPM Specfile Editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.feature.group 0.4.3.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:05:30.086
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.086
+!MESSAGE Documentation for RPM specfile editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.doc 0.4.3.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.086
+!MESSAGE Documentation for RPM specfile editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.doc 0.4.3.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:05:30.086
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.086
+!MESSAGE From: RPM Specfile Editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.feature.feature.group 0.4.3.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.086
+!MESSAGE To: org.eclipse.linuxtools.rpm.ui.editor.doc [0.4.3.201202152032]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:05:30.086
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.086
+!MESSAGE From: RPM Specfile Editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.feature.group 0.4.3.201108301805)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.086
+!MESSAGE To: org.eclipse.linuxtools.rpm.ui.editor.doc [0.4.3.201108301805]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2016-02-04 19:05:30.099
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2016-02-04 19:05:30.099
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:05:30.099
+!MESSAGE "Remote System Explorer End-User Runtime" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:05:30.099
+!MESSAGE "Eclipse Plug-in Development Environment" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:05:30.099
+!MESSAGE "Marketplace Client" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:05:30.099
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.099
+!MESSAGE Software being installed: RPM Specfile Editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.feature.feature.group 0.4.3.201202152032)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.099
+!MESSAGE Software being installed: RPM Specfile Editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.feature.group 0.4.3.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:05:30.099
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.099
+!MESSAGE Documentation for RPM specfile editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.doc 0.4.3.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.099
+!MESSAGE Documentation for RPM specfile editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.doc 0.4.3.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:05:30.099
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.099
+!MESSAGE From: RPM Specfile Editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.feature.feature.group 0.4.3.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.099
+!MESSAGE To: org.eclipse.linuxtools.rpm.ui.editor.doc [0.4.3.201202152032]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:05:30.099
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.099
+!MESSAGE From: RPM Specfile Editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.feature.group 0.4.3.201108301805)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:05:30.099
+!MESSAGE To: org.eclipse.linuxtools.rpm.ui.editor.doc [0.4.3.201108301805]
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 19:05:50.677
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketTimeoutException: Read timed out;children=[]]
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2016-02-04 19:07:27.199
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2016-02-04 19:07:27.199
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:07:27.199
+!MESSAGE "Remote System Explorer End-User Runtime" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10006 2016-02-04 19:07:27.199
+!MESSAGE "Remote System Explorer User Actions" is already present because other installed software requires it.  It will be added to the installed software list.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:07:27.199
+!MESSAGE "Eclipse Plug-in Development Environment" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:07:27.199
+!MESSAGE "Marketplace Client" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10006 2016-02-04 19:07:27.199
+!MESSAGE "Usage Data Collector" is already present because other installed software requires it.  It will be added to the installed software list.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:07:27.199
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.199
+!MESSAGE Software being installed: RPM Specfile Editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.feature.feature.group 0.4.3.201202152032)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.199
+!MESSAGE Software being installed: RPM Specfile Editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.feature.group 0.4.3.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:07:27.199
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.199
+!MESSAGE Documentation for RPM specfile editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.doc 0.4.3.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.199
+!MESSAGE Documentation for RPM specfile editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.doc 0.4.3.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:07:27.199
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.199
+!MESSAGE From: RPM Specfile Editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.feature.feature.group 0.4.3.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.199
+!MESSAGE To: org.eclipse.linuxtools.rpm.ui.editor.doc [0.4.3.201202152032]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:07:27.199
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.199
+!MESSAGE From: RPM Specfile Editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.feature.group 0.4.3.201108301805)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.199
+!MESSAGE To: org.eclipse.linuxtools.rpm.ui.editor.doc [0.4.3.201108301805]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2016-02-04 19:07:27.213
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2016-02-04 19:07:27.213
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:07:27.213
+!MESSAGE "Remote System Explorer End-User Runtime" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10006 2016-02-04 19:07:27.213
+!MESSAGE "Remote System Explorer User Actions" is already present because other installed software requires it.  It will be added to the installed software list.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:07:27.213
+!MESSAGE "Eclipse Plug-in Development Environment" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:07:27.213
+!MESSAGE "Marketplace Client" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10006 2016-02-04 19:07:27.213
+!MESSAGE "Usage Data Collector" is already present because other installed software requires it.  It will be added to the installed software list.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:07:27.213
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.213
+!MESSAGE Software being installed: RPM Specfile Editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.feature.feature.group 0.4.3.201202152032)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.213
+!MESSAGE Software being installed: RPM Specfile Editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.feature.group 0.4.3.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:07:27.213
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.213
+!MESSAGE Documentation for RPM specfile editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.doc 0.4.3.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.213
+!MESSAGE Documentation for RPM specfile editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.doc 0.4.3.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:07:27.213
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.213
+!MESSAGE From: RPM Specfile Editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.feature.feature.group 0.4.3.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.213
+!MESSAGE To: org.eclipse.linuxtools.rpm.ui.editor.doc [0.4.3.201202152032]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:07:27.213
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.213
+!MESSAGE From: RPM Specfile Editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.feature.group 0.4.3.201108301805)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:07:27.213
+!MESSAGE To: org.eclipse.linuxtools.rpm.ui.editor.doc [0.4.3.201108301805]
+!SESSION 2016-02-04 19:32:44.591 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2016-02-04 19:32:52.744
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2016-02-04 19:32:55.475
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2016-02-04 19:32:55.475
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-02-04 19:32:55.475
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-02-04 19:32:55.475
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-02-04 19:32:55.475
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2016-02-04 19:32:55.475
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2016-02-04 19:32:55.475
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2016-02-04 19:32:55.475
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2016-02-04 19:32:55.475
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-04 19:32:55.475
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-04 19:32:55.475
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-04 19:32:55.475
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-04 19:32:55.475
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-04 19:32:55.475
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-04 19:32:55.475
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-04 19:32:55.475
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-04 19:32:55.475
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-04 19:32:55.475
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2016-02-04 19:32:55.480
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2016-02-04 19:32:55.480
+!MESSAGE OK
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2016-02-04 19:34:19.991
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2016-02-04 19:34:19.991
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:34:19.991
+!MESSAGE "Eclipse Plug-in Development Environment" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:34:19.991
+!MESSAGE "Marketplace Client" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:34:19.991
+!MESSAGE "Remote System Explorer End-User Runtime" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:34:19.991
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:19.991
+!MESSAGE Software being installed: RPM Specfile Editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.feature.feature.group 0.4.3.201202152032)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:19.991
+!MESSAGE Software being installed: RPM Specfile Editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.feature.group 0.4.3.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:34:19.991
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:19.991
+!MESSAGE Documentation for RPM specfile editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.doc 0.4.3.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:19.991
+!MESSAGE Documentation for RPM specfile editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.doc 0.4.3.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:34:19.991
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:19.991
+!MESSAGE From: RPM Specfile Editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.feature.feature.group 0.4.3.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:19.991
+!MESSAGE To: org.eclipse.linuxtools.rpm.ui.editor.doc [0.4.3.201202152032]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:34:19.991
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:19.991
+!MESSAGE From: RPM Specfile Editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.feature.group 0.4.3.201108301805)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:19.991
+!MESSAGE To: org.eclipse.linuxtools.rpm.ui.editor.doc [0.4.3.201108301805]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2016-02-04 19:34:20.011
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2016-02-04 19:34:20.011
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:34:20.011
+!MESSAGE "Eclipse Plug-in Development Environment" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:34:20.011
+!MESSAGE "Marketplace Client" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-04 19:34:20.011
+!MESSAGE "Remote System Explorer End-User Runtime" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:34:20.011
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:20.011
+!MESSAGE Software being installed: RPM Specfile Editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.feature.feature.group 0.4.3.201202152032)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:20.011
+!MESSAGE Software being installed: RPM Specfile Editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.feature.group 0.4.3.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:34:20.011
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:20.011
+!MESSAGE Documentation for RPM specfile editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.doc 0.4.3.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:20.011
+!MESSAGE Documentation for RPM specfile editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.doc 0.4.3.201108301805)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:34:20.011
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:20.011
+!MESSAGE From: RPM Specfile Editor (Incubation) 0.4.3.201202152032 (org.eclipse.linuxtools.rpm.ui.editor.feature.feature.group 0.4.3.201202152032)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:20.011
+!MESSAGE To: org.eclipse.linuxtools.rpm.ui.editor.doc [0.4.3.201202152032]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-04 19:34:20.011
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:20.011
+!MESSAGE From: RPM Specfile Editor (Incubation) 0.4.3.201108301805 (org.eclipse.linuxtools.rpm.ui.editor.feature.group 0.4.3.201108301805)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-04 19:34:20.011
+!MESSAGE To: org.eclipse.linuxtools.rpm.ui.editor.doc [0.4.3.201108301805]
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 19:37:55.049
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketException: Connection reset;children=[]]
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-02-04 19:38:06.374
+!MESSAGE An internal error occurred during: "Install download0".
+!STACK 0
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeHi(Unknown Source)
+	at java.util.ComparableTimSort.mergeAt(Unknown Source)
+	at java.util.ComparableTimSort.mergeCollapse(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorSelector.hasValidMirror(MirrorSelector.java:319)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:577)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 19:38:08.510
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketException: Connection reset;children=[]]
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2016-02-04 19:41:38.302
+!MESSAGE Connection to http://eclipse.mirror.rafal.ca/releases/indigo/201202240900/aggregate/plugins/org.eclipse.wb.core.lib_1.3.0.r37x201202052311.jar.pack.gz failed on eclipse.mirror.rafal.ca. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: eclipse.mirror.rafal.ca
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.eclipse.ecf.provider.filetransfer.events.socket.SocketEventCreateUtil.createSocket(SocketEventCreateUtil.java:43)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:81)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:73)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:65)
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1142)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:710)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:889)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:576)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:349)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.readInto(FileReader.java:295)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:80)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:130)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:625)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:569)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:680)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:260)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:235)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:191)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:122)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:664)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 19:43:28.023
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketException: Connection reset;children=[]]
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 19:44:27.360
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.io.IOException: Stream closed;children=[]]
+!STACK 0
+java.io.IOException: Stream closed
+	at java.io.BufferedInputStream.getBufIfOpen(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.hardClose(AbstractRetrieveFileTransfer.java:331)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.hardClose(HttpClientRetrieveFileTransfer.java:396)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.cancel(HttpClientRetrieveFileTransfer.java:382)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.handleTransferEvent(FileReader.java:173)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.fireTransferReceiveDataEvent(AbstractRetrieveFileTransfer.java:388)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.fireTransferReceiveDataEvent(HttpClientRetrieveFileTransfer.java:1163)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.handleReceivedData(AbstractRetrieveFileTransfer.java:288)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:173)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-04 19:44:27.450
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.io.IOException: Stream closed;children=[]]
+!STACK 0
+java.io.IOException: Stream closed
+	at java.io.BufferedInputStream.getBufIfOpen(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.hardClose(AbstractRetrieveFileTransfer.java:331)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.hardClose(HttpClientRetrieveFileTransfer.java:396)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.cancel(HttpClientRetrieveFileTransfer.java:382)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.handleTransferEvent(FileReader.java:173)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.fireTransferReceiveDataEvent(AbstractRetrieveFileTransfer.java:388)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.fireTransferReceiveDataEvent(HttpClientRetrieveFileTransfer.java:1163)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.handleReceivedData(AbstractRetrieveFileTransfer.java:288)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:173)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2016-02-19 00:00:43.874 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2016-02-19 00:00:59.142
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2016-02-19 00:01:04.502
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2016-02-19 00:01:04.503
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-02-19 00:01:04.503
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-02-19 00:01:04.503
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-02-19 00:01:04.503
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2016-02-19 00:01:04.503
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2016-02-19 00:01:04.503
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2016-02-19 00:01:04.503
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2016-02-19 00:01:04.503
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-19 00:01:04.503
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-19 00:01:04.503
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-19 00:01:04.503
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-19 00:01:04.503
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-19 00:01:04.503
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-19 00:01:04.504
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-19 00:01:04.504
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-19 00:01:04.504
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-19 00:01:04.504
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2016-02-19 00:01:04.504
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2016-02-19 00:01:04.504
+!MESSAGE OK
+
+!ENTRY org.eclipse.epp.usagedata.recording 1 0 2016-02-19 00:01:32.141
+!MESSAGE Usage data upload to http://udc.eclipse.org/upload.php failed with error code 404.
+!SESSION 2016-02-20 12:06:38.170 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2016-02-20 12:07:19.848
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2016-02-20 12:07:41.177
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2016-02-20 12:07:41.177
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-02-20 12:07:41.177
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-02-20 12:07:41.178
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-02-20 12:07:41.178
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2016-02-20 12:07:41.178
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2016-02-20 12:07:41.178
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2016-02-20 12:07:41.178
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2016-02-20 12:07:41.178
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 12:07:41.178
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 12:07:41.178
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 12:07:41.178
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 12:07:41.179
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 12:07:41.179
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 12:07:41.179
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 12:07:41.179
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 12:07:41.179
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 12:07:41.179
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2016-02-20 12:07:41.179
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2016-02-20 12:07:41.179
+!MESSAGE OK
+!SESSION 2016-02-20 14:10:12.581 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2016-02-20 14:10:31.770
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2016-02-20 14:10:50.564
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2016-02-20 14:10:50.564
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-02-20 14:10:50.564
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-02-20 14:10:50.564
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2016-02-20 14:10:50.564
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2016-02-20 14:10:50.564
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2016-02-20 14:10:50.564
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2016-02-20 14:10:50.564
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2016-02-20 14:10:50.564
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 14:10:50.564
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 14:10:50.564
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 14:10:50.564
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 14:10:50.564
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 14:10:50.564
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 14:10:50.564
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 14:10:50.564
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 14:10:50.564
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2016-02-20 14:10:50.564
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2016-02-20 14:10:50.565
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2016-02-20 14:10:50.565
+!MESSAGE OK
+!SESSION 2016-02-20 14:48:38.944 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-20 14:55:54.479
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketException: Connection reset;children=[]]
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-20 14:58:08.385
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketException: Connection reset;children=[]]
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-20 14:59:59.535
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketTimeoutException: Read timed out;children=[]]
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-20 14:59:59.637
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketTimeoutException: Read timed out;children=[]]
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-20 15:00:00.809
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketTimeoutException: Read timed out;children=[]]
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ecf.provider.filetransfer 4 0 2016-02-20 15:04:49.714
+!MESSAGE org.eclipse.core.runtime.Status[plugin=org.eclipse.ecf.provider.filetransfer;code=4;message=hardClose;severity4;exception=java.net.SocketTimeoutException: Read timed out;children=[]]
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:170)
+	at org.apache.commons.httpclient.ContentLengthInputStream.read(ContentLengthInputStream.java:184)
+	at org.apache.commons.httpclient.ChunkedInputStream.exhaustInputStream(ChunkedInputStream.java:369)
+	at org.apache.commons.httpclient.ContentLengthInputStream.close(ContentLengthInputStream.java:118)
+	at java.io.FilterInputStream.close(Unknown Source)
+	at org.apache.commons.httpclient.AutoCloseInputStream.notifyWatcher(AutoCloseInputStream.java:194)
+	at org.apache.commons.httpclient.AutoCloseInputStream.close(AutoCloseInputStream.java:158)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:185)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:73)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
